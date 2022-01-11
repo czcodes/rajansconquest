@@ -9,9 +9,10 @@ their province, and is given the opportunity to battle other provinces to conque
  If the player conquers all five provinces before the game ends, they win. Otherwise, the province with the most amount 
  of land conquered will win the game. Alternatively, if they run out of any resource, they lose.
 
-## Instructions To Run the program: 
-- You will first be prompted if you would like to load a previous save (Input: Y/N) <br />
-<br />
+# Instructions To Run the program: 
+
+First, you will first be prompted if you would like to load a previous save (Input: Y/N) <br />
+
 - In a new game state: [Selecting N for the first tbe Previous Load Game State] <br />
     &nbsp; Then you will be prompted to type your name <br />
     &nbsp; After you type your name, you will then be able to type the Province name <br />
