@@ -1,5 +1,4 @@
 ## Rajan's Conquest
-By: Carson, Howard, Girish, Sayna, Armaan, Ansh, Kowan
 
 ## Video Demo: https://user-images.githubusercontent.com/83887991/149045008-c007a0a0-c444-4622-b72c-7a6413777639.mp4
 
