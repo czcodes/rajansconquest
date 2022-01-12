@@ -1,8 +1,9 @@
-## Rajan's Conquest
+# Rajan's Conquest
 
-## Video Demo: https://user-images.githubusercontent.com/83887991/149045008-c007a0a0-c444-4622-b72c-7a6413777639.mp4
+#### Video Demo: https://user-images.githubusercontent.com/83887991/149045008-c007a0a0-c444-4622-b72c-7a6413777639.mp4
 
-Our game is a text-based adventure game based in ancient India. The player joins one of five provinces in the nation, 
+## Description
+Rajan's Conquest is a text-based adventure game based in ancient India. The player joins one of five provinces in the nation, 
 and is tasked with conquering all the other provinces. Each province receives strategic options each game to strengthen
 their province, and is given the opportunity to battle other provinces to conquer them as well.
 
@@ -10,7 +11,7 @@ their province, and is given the opportunity to battle other provinces to conque
  If the player conquers all five provinces before the game ends, they win. Otherwise, the province with the most amount 
  of land conquered will win the game. Alternatively, if they run out of any resource, they lose.
 
-# Instructions To Run the program: 
+## Instructions To Run: 
 
 First, you will first be prompted if you would like to load a previous save (Input: Y/N) <br />
 
